@@ -629,15 +629,15 @@
     webpack "5.9.0"
     webpack-node-externals "2.5.2"
 
-"@nestjs/common@^7.5.5":
-  version "7.5.5"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-7.5.5.tgz#9c8bfcbe32ef7768d87cb458084271f7e38cc32e"
-  integrity sha512-dubDHjashfARGV8zhcANTsL5o0ZPm2xTB/BI12wgwTjCnM8WkaFqXpSCngqJyB3/XTFwllkP2g1ok6TwAZcSJw==
+"@nestjs/common@^7.6.0":
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-7.6.0.tgz#e470c2c026eb41848a082606e759f93cf1c265dc"
+  integrity sha512-n1Mmck0uCWxNU4hVHN5jqHQhF9cqzTjfShKB4Dab5db2c2nimcFjwLPUPsZtphFCZ+Xe53O7Xv6+6d6nsOynHw==
   dependencies:
     axios "0.21.0"
     iterare "1.2.1"
     tslib "2.0.3"
-    uuid "8.3.1"
+    uuid "8.3.2"
 
 "@nestjs/config@^0.6.1":
   version "0.6.1"
